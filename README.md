@@ -7,7 +7,7 @@ A number guessing game I created in Python. The numbers are 0-999,999. There are
 
 How to Run
 -----------
-To run the application, double click user_interface.py or run it a Python IDE. 
+To run the application, double click numberand.py or run it a Python IDE. 
 
 
 How to Play
