@@ -35,3 +35,8 @@ goes through an algorithm. You can try to use these feedbacks to help you guess 
 The range of how close you must be to the number each round will also be cut in half each round. Round 1 does not start
 until you pick the first number. Round 1 start at 500,000 range, while round 2 is 250,000 range. If your number is
 greater or lesser by the exact number plus or minus the range, you lose the game.
+
+
+Versions
+----------
+0.04 - first release alpha
